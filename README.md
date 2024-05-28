@@ -12,3 +12,7 @@ $ python3 password-strength-checker.py
 ```
 ### Picture from Kali:
 ![kali](https://github.com/Ayoub-AitBendaoud/Password_Strength_Checker/assets/161057716/2afd54a5-2ddf-4648-8cfb-f55181d4307a)
+### YouTube Link OF Video:
+[Watch the video](https://www.youtube.com/watch?v=tK5XiXM2198)
+
+
